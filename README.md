@@ -1,4 +1,4 @@
-Yep — for GitHub, I'd make it **short, punchy, and challenge-focused**:
+
 
 ````markdown
 # 🕵️ AI Bias Heist — Heart
